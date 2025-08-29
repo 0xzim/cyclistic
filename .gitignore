@@ -1,0 +1,16 @@
+# Generate .gitignore file
+# Python
+__pycache__/
+/csv_files
+/.vscode
+venv
+*.ipynb_checkpoints
+.DS_Store
+
+_site/
+*.html
+*.nb.html
+*.ipynb_checkpoints/
+*.quarto_ipynb
+cyclistic_files
+.quarto
