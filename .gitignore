@@ -1,7 +1,7 @@
 # Generate .gitignore file
 # Python
 __pycache__/
-/csv_files
+/files
 /.vscode
 venv
 *.ipynb_checkpoints
