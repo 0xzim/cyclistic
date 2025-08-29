@@ -14,7 +14,7 @@ format:
 Cyclistic launched its bike-share program in 2016, growing to 5,824 bikes across 692 Chicago stations. Riders can unlock a bike at one station and return it to another. The program offers flexible pricing: single-ride and day passes (**casual riders**) and annual memberships (**members**).  
 
 ## Objective  
-This analysis explores historical trip data to compare casual riders and members, aiming to uncover trends that can inform marketing strategies to convert casual riders into members — Cyclistic’s most profitable segment.  
+This analysis explores historical trip data to compare casual riders and members, aiming to uncover trends that can inform marketing strategies to convert casual riders into members. 
 
 ### Key Question  
 - How do annual members and casual riders use Cyclistic bikes differently? 
