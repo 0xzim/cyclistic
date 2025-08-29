@@ -46,6 +46,7 @@ trip12 = pd.read_csv('files/202112-divvy-tripdata.csv')
 ```
 
 ```{python}
+# Combine all the data
 all_trips = pd.concat([trip01, trip02, trip03, trip04, trip05, trip06, trip07, trip08, trip09, trip10, trip11, trip12])
 ```
 
