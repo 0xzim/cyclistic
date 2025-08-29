@@ -1,4 +1,4 @@
-#### Case study: How does a bike-share navigate speedy success?
+### Case study: How does a bike-share navigate speedy success?
 
 This capstone project for the Google Data Analytics course analyzes historical Cyclistic bike trip data to identify differences between casual riders and annual members, uncovering trends to inform strategies for converting casual riders into profitable annual members.
 
